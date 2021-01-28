@@ -1,0 +1,28 @@
+.section-2 {
+    background-image:  url(../assets/sol_wave_bg.png); 
+    background-size: 110% 100%;
+    color: #222;
+    padding-bottom: 100px;
+    opacity: 1;
+    margin: 0px;
+    padding: 0px;
+}
+
+.section-1-1 {
+    
+    background-image:  url(../assets/blob-small.png);
+    background-size: 50% 50%;
+    opacity: 1;
+    background-position: -30px 200px;
+    background-repeat: no-repeat;
+   
+}
+
+.section-1-2 {
+    background-image:  url(../assets/circle.png); 
+    background-size: 110% 110%;
+    opacity: 1;
+    background-position: -20px -200px;
+    background-repeat: no-repeat;
+}
+
